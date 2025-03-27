@@ -5,8 +5,6 @@ This script automatically monitors TripAdvisor concert ticket listings and alert
 when tickets in a specified category become available. It uses Selenium WebDriver
 to analyze the page structure and detect changes in ticket availability.
 
-Author: Your Name
-Date: March 2025
 """
 
 import time
